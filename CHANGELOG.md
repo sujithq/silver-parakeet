@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/sujithq/silver-parakeet/releases/tag/v1.1.0) (2023-09-23)
+
+### Features
+
+* meddd ([1d4d15a](https://www.github.com/sujithq/silver-parakeet/commit/1d4d15a2f7e6730ff1c8041e13c9ecd8b9ccf395))
+
 <a name="1.0.0"></a>
 ## [1.0.0](https://www.github.com/sujithq/silver-parakeet/releases/tag/v1.0.0) (2023-09-23)
 
