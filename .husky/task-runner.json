@@ -13,8 +13,8 @@
      {
        "name": "dotnet-format",
        "group": "pre-commit",
-       "command": "dotnet-format",
-       "args": ["--include", "${staged}"],
+       "command": "dotnet format",
+       "args": ["--include", "${include}"],
        "include": ["**/*.cs"]
      }
    ]
